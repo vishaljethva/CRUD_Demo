@@ -1,7 +1,7 @@
 @extends('layouts.default')
 @section('content')
     <div class="row">
-        <div class="col-lg-12 margin-tb">
+        <div class="col-lg-12 col-md-12 col-sm-12 margin-tb">
             <div class="pull-left">
                 <h2>CRUD Demo</h2>
             </div>
